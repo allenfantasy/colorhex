@@ -4,6 +4,10 @@
 
 A command line helper to convert between RGB & Hex.
 
+### Install
+
+`npm install -g colorhex`
+
 ### Usage
 
 ```bash
